@@ -6,7 +6,7 @@ public class CandidateCode
         for(int i=0;i<input1.length;i++)
         {
             output[i]=input1[i]+input2[i];
-        }
+        } 
         return output;
     }
 }
