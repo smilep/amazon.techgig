@@ -8,5 +8,6 @@ public class CandidateCode
             output[i]=input1[i]+input2[i];
         } 
         return output;
+        
     }
 }
